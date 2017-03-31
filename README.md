@@ -1,7 +1,7 @@
 # CDRESTAPI
 
 - Developed using Python, Flask, MySQL, and sqlalchemy
-- Ensure MySQL, flask, and Flask and Flask-SQLAlchemy are properly installed
+- Ensure MySQL, flask, and Flask-SQLAlchemy are properly installed
 - Create database, create two tables: doctors and reviews
 - Doctors table will consist of an id INT NOT NULL PRIMARY KEY, and a name VARCHAR NOT NULL
 - Reviews table will consist of an id INT NOT NULL PRIMARY KEY, a doctorId INT NOT NULL, and a description TEXT NOT NULL.
